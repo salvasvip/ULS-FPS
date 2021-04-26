@@ -9,7 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
-
+/.idea
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
@@ -58,7 +58,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.aab
-*.unitypackage
+/[Aa]ssets/**/*.unitypackage
 
 # Crashlytics generated file
 crashlytics-build.properties
